@@ -1,0 +1,21 @@
+.border {
+  border-right: 1px solid grey;
+}
+.fa-face-smile{
+  font-size: 22px;
+  color: #eeff00;
+}
+.fa-youtube{
+  font-size: 22px;
+  color: #ee0000;
+}
+.fa-twitter{
+  font-size: 22px;
+  color: #00acee;
+}
+.tweet {
+    width: 80%
+}
+.youtube {
+    width: 80%
+}

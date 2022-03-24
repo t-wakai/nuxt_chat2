@@ -1,0 +1,5 @@
+{
+    "first_text" : "Search and display {type} with the inputed keyword.",
+    "not_hit_tweet" : "The tweet was not found😇",
+    "search_error" : "Failed to get the {type}🙇‍♂️"
+}

@@ -1,0 +1,5 @@
+{
+    "first_text" : "入力したキーワードで{type}を検索します。",
+    "not_hit_tweet" : "tweetが見つかりませんでした😇",
+    "search_error" : "{type}の取得に失敗しました🙇‍♂️"
+}
